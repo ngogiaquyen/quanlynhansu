@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\dialogs\\attendancedialog.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\dialogs\\attendancedialog.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\dialogs\\attendancedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\dialogs\\attendancedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\controllers\\recruitmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\recruitmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\controllers\\disciplinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\disciplinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\views\\employeepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\views\\employeepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Controllers\\AttendanceController.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "HRMANAGMENT2\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T15:22:29.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttendanceDialog.xaml.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml.cs",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml.cs",
+              "RelativeToolTip": "HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T15:21:49.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeePage.xaml",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\EmployeePage.xaml",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Views\\EmployeePage.xaml",
+              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\EmployeePage.xaml",
+              "RelativeToolTip": "HRMANAGMENT2\\Views\\EmployeePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T14:47:11.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AttendanceDialog.xaml",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml",
+              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml",
+              "RelativeToolTip": "HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T14:46:09.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TrainingController.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\TrainingController.cs",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Controllers\\TrainingController.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\TrainingController.cs",
+              "RelativeToolTip": "HRMANAGMENT2\\Controllers\\TrainingController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:28:13.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SalaryController.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\SalaryController.cs",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Controllers\\SalaryController.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\SalaryController.cs",
+              "RelativeToolTip": "HRMANAGMENT2\\Controllers\\SalaryController.cs",
+              "ViewState": "AgIAAMIAAAAAAAAAAAAqwNgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:28:01.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecruitmentController.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\RecruitmentController.cs",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Controllers\\RecruitmentController.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\RecruitmentController.cs",
+              "RelativeToolTip": "HRMANAGMENT2\\Controllers\\RecruitmentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:27:49.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "HRMANAGMENT2\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAIwMwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:27:35.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DisciplineController.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\DisciplineController.cs",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Controllers\\DisciplineController.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\DisciplineController.cs",
+              "RelativeToolTip": "HRMANAGMENT2\\Controllers\\DisciplineController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAAAMsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:27:24.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContractController.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\ContractController.cs",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Controllers\\ContractController.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\ContractController.cs",
+              "RelativeToolTip": "HRMANAGMENT2\\Controllers\\ContractController.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAwwJEAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T14:22:45.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

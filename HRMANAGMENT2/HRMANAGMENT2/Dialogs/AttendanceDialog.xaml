@@ -1,0 +1,36 @@
+<Window x:Class="HRMANAGMENT2.Dialogs.AttendanceDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chi tiết Chấm công" Height="450" Width="500" WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize">
+    <ScrollViewer>
+        <StackPanel Margin="20">
+            <Label Content="Mã CC:"/>
+            <TextBox x:Name="TxtAttendanceId" IsReadOnly="True"/>
+            <Label Content="Mã NV:"/>
+            <ComboBox x:Name="CbEmployeeId" DisplayMemberPath="Name" SelectedValuePath="EmployeeId" Width="300"/>
+            <Label Content="Ngày chấm công:"/>
+            <DatePicker x:Name="DpAttendanceDate"/>
+            <Label Content="Giờ CheckIn:"/>
+            <DatePicker x:Name="DpCheckInTime"/>
+            <Label Content="Giờ CheckOut:"/>
+            <DatePicker x:Name="DpCheckOutTime"/>
+            <Label Content="Trạng thái:"/>
+            <ComboBox x:Name="CbStatus">
+                <ComboBox.Items>
+                    <sys:String>Có mặt</sys:String>
+                    <sys:String>Vắng</sys:String>
+                    <sys:String>Nghỉ phép</sys:String>
+                </ComboBox.Items>
+            </ComboBox>
+            <Label Content="Giờ hành chính:"/>
+            <TextBox x:Name="TxtAdminHours"/>
+            <Label Content="Giờ làm thêm:"/>
+            <TextBox x:Name="TxtOvertimeHours"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0">
+                <Button x:Name="BtnSave" Content="Lưu" Click="BtnSave_Click" Margin="5" Padding="10,5" Background="#28A745" Foreground="White" IsEnabled="False"/>
+                <Button Content="Hủy" Click="BtnCancel_Click" Margin="5" Padding="10,5" Background="#6C757D" Foreground="White"/>
+            </StackPanel>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

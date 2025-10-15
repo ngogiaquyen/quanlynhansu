@@ -1,0 +1,34 @@
+<Window x:Class="HRMANAGMENT2.Dialogs.RecruitmentDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chi tiết Tuyển dụng" Height="600" Width="600" WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize">
+    <ScrollViewer>
+        <StackPanel Margin="20">
+            <Label Content="Mã TD:"/>
+            <TextBox x:Name="TxtRecruitmentId" IsReadOnly="True"/>
+            <Label Content="Mã NV:"/>
+            <ComboBox x:Name="CbEmployeeId" DisplayMemberPath="Name" SelectedValuePath="EmployeeId"/>
+            <Label Content="Đơn ứng tuyển:"/>
+            <TextBox x:Name="TxtJobApplicationPath"/>
+            <Label Content="Hồ sơ:"/>
+            <TextBox x:Name="TxtResumePath"/>
+            <Label Content="Bằng cấp:"/>
+            <TextBox x:Name="TxtDegreesPath"/>
+            <Label Content="Khám sức khỏe:"/>
+            <TextBox x:Name="TxtHealthCheckPath"/>
+            <Label Content="CV:"/>
+            <TextBox x:Name="TxtCVPath"/>
+            <Label Content="Thư giới thiệu:"/>
+            <TextBox x:Name="TxtReferenceLetterPath"/>
+            <Label Content="Biên bản phỏng vấn:"/>
+            <TextBox x:Name="TxtInterviewMinutesPath"/>
+            <Label Content="Thư mời làm việc:"/>
+            <TextBox x:Name="TxtOfferLetterPath"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0">
+                <Button x:Name="BtnSave" Content="Lưu" Click="BtnSave_Click" Margin="5" Padding="10,5" Background="#28A745" Foreground="White" IsEnabled="False"/>
+                <Button Content="Hủy" Click="BtnCancel_Click" Margin="5" Padding="10,5" Background="#6C757D" Foreground="White"/>
+            </StackPanel>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

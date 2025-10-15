@@ -1,0 +1,36 @@
+<Window x:Class="HRMANAGMENT2.Dialogs.ContractDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chi tiết Hợp đồng" Height="500" Width="600" WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize">
+    <ScrollViewer>
+        <StackPanel Margin="20">
+            <Label Content="Mã HĐ:"/>
+            <TextBox x:Name="TxtContractId" IsReadOnly="True"/>
+            <Label Content="Mã NV:"/>
+            <ComboBox x:Name="CbEmployeeId" DisplayMemberPath="Name" SelectedValuePath="EmployeeId"/>
+            <Label Content="Ngày bắt đầu:"/>
+            <DatePicker x:Name="DpStartDate"/>
+            <Label Content="Ngày kết thúc:"/>
+            <DatePicker x:Name="DpEndDate"/>
+            <Label Content="Loại HĐ:"/>
+            <TextBox x:Name="TxtContractType"/>
+            <Label Content="Phụ lục HĐ:"/>
+            <TextBox x:Name="TxtContractAnnexPath"/>
+            <Label Content="Thỏa thuận bảo mật:"/>
+            <TextBox x:Name="TxtConfidentialityAgreementPath"/>
+            <Label Content="Thỏa thuận không cạnh tranh:"/>
+            <TextBox x:Name="TxtNonCompeteAgreementPath"/>
+            <Label Content="Quyết định bổ nhiệm:"/>
+            <TextBox x:Name="TxtAppointmentDecisionPath"/>
+            <Label Content="Quyết định tăng lương:"/>
+            <TextBox x:Name="TxtSalaryIncreaseDecisionPath"/>
+            <Label Content="Quyết định thưởng:"/>
+            <TextBox x:Name="TxtRewardDecisionPath"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0">
+                <Button x:Name="BtnSave" Content="Lưu" Click="BtnSave_Click" Margin="5" Padding="10,5" Background="#28A745" Foreground="White" IsEnabled="False"/>
+                <Button Content="Hủy" Click="BtnCancel_Click" Margin="5" Padding="10,5" Background="#6C757D" Foreground="White"/>
+            </StackPanel>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

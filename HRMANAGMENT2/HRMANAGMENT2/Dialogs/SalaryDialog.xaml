@@ -1,0 +1,34 @@
+<Window x:Class="HRMANAGMENT2.Dialogs.SalaryDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Chi tiết Lương" Height="500" Width="600" WindowStartupLocation="CenterOwner"
+        ResizeMode="NoResize">
+    <ScrollViewer>
+        <StackPanel Margin="20">
+            <Label Content="Mã Lương:"/>
+            <TextBox x:Name="TxtSalaryId" IsReadOnly="True"/>
+            <Label Content="Mã NV:"/>
+            <ComboBox x:Name="CbEmployeeId" DisplayMemberPath="Name" SelectedValuePath="EmployeeId"/>
+            <Label Content="Lương tháng:"/>
+            <TextBox x:Name="TxtMonthlySalary"/>
+            <Label Content="Phiếu lương:"/>
+            <TextBox x:Name="TxtPaySlipPath"/>
+            <Label Content="Tăng lương:"/>
+            <TextBox x:Name="TxtSalaryIncreaseDecisionPath"/>
+            <Label Content="Số tài khoản NH:"/>
+            <TextBox x:Name="TxtBankAccount"/>
+            <Label Content="Thông tin BH:"/>
+            <TextBox x:Name="TxtInsuranceInfo"/>
+            <Label Content="Phụ cấp:"/>
+            <TextBox x:Name="TxtAllowances"/>
+            <Label Content="Thưởng:"/>
+            <TextBox x:Name="TxtBonuses"/>
+            <Label Content="Chính sách nghỉ phép:"/>
+            <TextBox x:Name="TxtLeavePolicy"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,20,0,0">
+                <Button x:Name="BtnSave" Content="Lưu" Click="BtnSave_Click" Margin="5" Padding="10,5" Background="#28A745" Foreground="White" IsEnabled="False"/>
+                <Button Content="Hủy" Click="BtnCancel_Click" Margin="5" Padding="10,5" Background="#6C757D" Foreground="White"/>
+            </StackPanel>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

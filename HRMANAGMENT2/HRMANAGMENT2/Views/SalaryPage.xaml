@@ -1,0 +1,89 @@
+<UserControl x:Class="HRMANAGMENT2.Views.SalaryPage"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Top Controls -->
+        <WrapPanel Grid.Row="0" Margin="20" Background="#F8F9FA" Padding="15">
+            <Label Content="Tìm kiếm:" VerticalAlignment="Center" Margin="5" FontWeight="Bold"/>
+            <TextBox x:Name="TxtSearchSalaries" Width="250" Margin="5" TextChanged="TxtSearchSalaries_TextChanged"/>
+            <Button Content="🔍 Tìm" Click="BtnSearchSalaries_Click" Margin="5" Padding="12,8" Background="#007BFF" Foreground="White" BorderThickness="0">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border Background="{TemplateBinding Background}" CornerRadius="6">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="➕ Thêm" Click="BtnAddSalary_Click" Margin="5" Padding="12,8" Background="#28A745" Foreground="White" BorderThickness="0">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border Background="{TemplateBinding Background}" CornerRadius="6">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="✏️ Sửa" Click="BtnUpdateSalary_Click" Margin="5" Padding="12,8" Background="#FFC107" Foreground="Black" BorderThickness="0">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border Background="{TemplateBinding Background}" CornerRadius="6">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="🗑️ Xóa" Click="BtnDeleteSalary_Click" Margin="5" Padding="12,8" Background="#DC3545" Foreground="White" BorderThickness="0">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border Background="{TemplateBinding Background}" CornerRadius="6">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Button Content="📊 Xuất Excel" Click="BtnExportSalaries_Click" Margin="5" Padding="12,8" Background="#6F42C1" Foreground="White" BorderThickness="0">
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border Background="{TemplateBinding Background}" CornerRadius="6">
+                            <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+        </WrapPanel>
+
+        <!-- DataGrid -->
+        <ScrollViewer Grid.Row="1" Margin="20" VerticalScrollBarVisibility="Auto">
+            <DataGrid x:Name="DgvSalaries" AutoGenerateColumns="False" IsReadOnly="True" CanUserAddRows="False" SelectionMode="Single"
+                      GridLinesVisibility="Horizontal" AlternatingRowBackground="LightGray" HeadersVisibility="Column" MouseDoubleClick="DgvSalaries_MouseDoubleClick">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Mã Lương" Binding="{Binding SalaryId}" Width="100"/>
+                    <DataGridTextColumn Header="Nhân viên" Binding="{Binding EmployeeInfo}" Width="*"/>
+                    <DataGridTextColumn Header="Lương tháng" Binding="{Binding MonthlySalary, StringFormat={}{0:N0}}" Width="120"/>
+                    <DataGridTextColumn Header="Phiếu lương" Binding="{Binding PaySlipPath}" Width="*"/>
+                    <DataGridTextColumn Header="Tăng lương" Binding="{Binding SalaryIncreaseDecisionPath}" Width="*"/>
+                    <DataGridTextColumn Header="Tài khoản NH" Binding="{Binding BankAccount}" Width="*"/>
+                    <DataGridTextColumn Header="BH" Binding="{Binding InsuranceInfo}" Width="*"/>
+                    <DataGridTextColumn Header="Phụ cấp" Binding="{Binding Allowances, StringFormat={}{0:N0}}" Width="100"/>
+                    <DataGridTextColumn Header="Thưởng" Binding="{Binding Bonuses, StringFormat={}{0:N0}}" Width="100"/>
+                    <DataGridTextColumn Header="Nghỉ phép" Binding="{Binding LeavePolicy}" Width="*"/>
+                </DataGrid.Columns>
+                <DataGrid.RowStyle>
+                    <Style TargetType="DataGridRow">
+                        <Style.Triggers>
+                            <Trigger Property="IsMouseOver" Value="True">
+                                <Setter Property="Background" Value="#E3F2FD"/>
+                            </Trigger>
+                        </Style.Triggers>
+                    </Style>
+                </DataGrid.RowStyle>
+            </DataGrid>
+        </ScrollViewer>
+    </Grid>
+</UserControl>
