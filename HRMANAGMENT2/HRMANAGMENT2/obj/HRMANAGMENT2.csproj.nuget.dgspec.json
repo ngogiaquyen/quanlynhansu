@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\HRMANAGMENT2.csproj": {}
+    "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\HRMANAGMENT2.csproj": {}
   },
   "projects": {
-    "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\HRMANAGMENT2.csproj": {
+    "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\HRMANAGMENT2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\HRMANAGMENT2.csproj",
+        "projectUniqueName": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\HRMANAGMENT2.csproj",
         "projectName": "HRMANAGMENT2",
-        "projectPath": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\HRMANAGMENT2.csproj",
+        "projectPath": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\HRMANAGMENT2.csproj",
         "packagesPath": "C:\\Users\\QUYEN NGO\\.nuget\\packages\\",
-        "outputPath": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\obj\\",
+        "outputPath": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

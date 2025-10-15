@@ -124,7 +124,7 @@ namespace HRMANAGMENT2.Dialogs {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/HRMANAGMENT2;V1.0.0.0;component/dialogs/disciplinedialog.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/HRMANAGMENT2;component/dialogs/disciplinedialog.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Dialogs\DisciplineDialog.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

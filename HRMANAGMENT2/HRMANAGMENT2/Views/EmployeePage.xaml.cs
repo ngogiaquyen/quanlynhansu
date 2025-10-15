@@ -11,8 +11,8 @@ namespace HRMANAGMENT2.Views
 {
     public partial class EmployeePage : UserControl
     {
-        private readonly EmployeeController _employeeController;
-        private DataView _dvEmployees;
+        private EmployeeController? _employeeController;
+        private DataView? _dvEmployees;
 
         public EmployeePage()
         {
@@ -25,9 +25,13 @@ namespace HRMANAGMENT2.Views
         {
             try
             {
-                DataTable dt = _employeeController.GetEmployeesData();
-                _dvEmployees = dt.DefaultView;
-                DgvEmployees.ItemsSource = _dvEmployees;
+                if (_employeeController is null) return;
+                DataTable? dt = _employeeController.GetEmployeesData();
+                if (dt is not null)
+                {
+                    _dvEmployees = dt.DefaultView;
+                    DgvEmployees.ItemsSource = _dvEmployees;
+                }
             }
             catch (Exception ex)
             {
@@ -35,18 +39,19 @@ namespace HRMANAGMENT2.Views
             }
         }
 
-        private void TxtSearchEmployees_TextChanged(object sender, TextChangedEventArgs e)
+        private void TxtSearchEmployees_TextChanged(object? sender, TextChangedEventArgs? e)
         {
-            if (_dvEmployees != null)
+            if (_dvEmployees is not null)
             {
-                string filter = BuildRowFilter(_dvEmployees.Table, TxtSearchEmployees.Text);
+                string? searchText = TxtSearchEmployees?.Text;
+                string filter = BuildRowFilter(_dvEmployees.Table, searchText);
                 _dvEmployees.RowFilter = filter;
             }
         }
 
-        private static string BuildRowFilter(DataTable dt, string search)
+        private static string BuildRowFilter(DataTable? dt, string? search)
         {
-            if (string.IsNullOrWhiteSpace(search)) return string.Empty;
+            if (dt is null || string.IsNullOrWhiteSpace(search)) return string.Empty;
             string escaped = search.Replace("'", "''");
             var conditions = dt.Columns.Cast<DataColumn>()
                 .Where(c => c.DataType == typeof(string) || c.DataType == typeof(DateTime) || c.DataType == typeof(int) || c.DataType == typeof(decimal))
@@ -54,10 +59,14 @@ namespace HRMANAGMENT2.Views
             return string.Join(" OR ", conditions);
         }
 
-        private void BtnSearchEmployees_Click(object sender, RoutedEventArgs e) => TxtSearchEmployees_TextChanged(null, null);
-
-        private void BtnAddEmployee_Click(object sender, RoutedEventArgs e)
+        private void BtnSearchEmployees_Click(object? sender, RoutedEventArgs? e)
         {
+            TxtSearchEmployees_TextChanged(null, null);
+        }
+
+        private void BtnAddEmployee_Click(object? sender, RoutedEventArgs? e)
+        {
+            if (_employeeController is null) return;
             var dialog = new EmployeeDialog(_employeeController);
             if (dialog.ShowDialog() == true)
             {
@@ -65,11 +74,12 @@ namespace HRMANAGMENT2.Views
             }
         }
 
-        private void BtnUpdateEmployee_Click(object sender, RoutedEventArgs e)
+        private void BtnUpdateEmployee_Click(object? sender, RoutedEventArgs? e)
         {
-            if (DgvEmployees.SelectedItem is DataRowView row)
+            if (DgvEmployees.SelectedItem is DataRowView row && _employeeController is not null)
             {
-                string id = row["EmployeeId"]?.ToString();
+                object? idObj = row["EmployeeId"];
+                string? id = idObj?.ToString();
                 if (!string.IsNullOrEmpty(id))
                 {
                     var dialog = new EmployeeDialog(_employeeController, id);
@@ -85,11 +95,12 @@ namespace HRMANAGMENT2.Views
             }
         }
 
-        private void BtnDeleteEmployee_Click(object sender, RoutedEventArgs e)
+        private void BtnDeleteEmployee_Click(object? sender, RoutedEventArgs? e)
         {
-            if (DgvEmployees.SelectedItem is DataRowView row)
+            if (DgvEmployees.SelectedItem is DataRowView row && _employeeController is not null)
             {
-                string id = row["EmployeeId"]?.ToString();
+                object? idObj = row["EmployeeId"];
+                string? id = idObj?.ToString();
                 if (!string.IsNullOrEmpty(id) && MessageBox.Show($"Xóa nhân viên {id}?", "Xác nhận", MessageBoxButton.YesNo, MessageBoxImage.Question) == MessageBoxResult.Yes)
                 {
                     _employeeController.DeleteEmployee(id);
@@ -102,10 +113,11 @@ namespace HRMANAGMENT2.Views
             }
         }
 
-        private void BtnExportEmployees_Click(object sender, RoutedEventArgs e)
+        private void BtnExportEmployees_Click(object? sender, RoutedEventArgs? e)
         {
             try
             {
+                if (_employeeController is null) return;
                 _employeeController.ExportEmployeesToExcel();
             }
             catch (Exception ex)
@@ -114,11 +126,12 @@ namespace HRMANAGMENT2.Views
             }
         }
 
-        private void DgvEmployees_MouseDoubleClick(object sender, System.Windows.Input.MouseButtonEventArgs e)
+        private void DgvEmployees_MouseDoubleClick(object? sender, System.Windows.Input.MouseButtonEventArgs? e)
         {
-            if (DgvEmployees.SelectedItem is DataRowView row)
+            if (DgvEmployees.SelectedItem is DataRowView row && _employeeController is not null)
             {
-                string id = row["EmployeeId"]?.ToString();
+                object? idObj = row["EmployeeId"];
+                string? id = idObj?.ToString();
                 if (!string.IsNullOrEmpty(id))
                 {
                     var dialog = new EmployeeDialog(_employeeController, id, isReadOnly: true);

@@ -1,6 +1,7 @@
 <Window x:Class="HRMANAGMENT2.Dialogs.EmployeeDialog"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
         Title="Chi tiết Nhân viên" Height="700" Width="600" WindowStartupLocation="CenterOwner"
         ResizeMode="NoResize">
     <ScrollViewer>

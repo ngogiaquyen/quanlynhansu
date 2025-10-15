@@ -1,45 +1,105 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\",
+  "WorkspaceRootPath": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\dialogs\\attendancedialog.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
-      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\dialogs\\attendancedialog.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\dialogs\\attendancedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\dialogs\\attendancedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\views\\employeepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\views\\employeepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\controllers\\recruitmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\recruitmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\controllers\\disciplinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\disciplinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\views\\employeepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\views\\employeepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\views\\employeepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\obj\\Debug\\net8.0-windows\\Views\\EmployeePage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HRMANAGMENT2\\obj\\Debug\\net8.0-windows\\Views\\EmployeePage.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\views\\contractpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\views\\contractpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\views\\disciplinepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\views\\disciplinepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\views\\recruitmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\views\\recruitmentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\views\\salarypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\views\\salarypage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\views\\trainingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\views\\trainingpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\views\\attendancepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\views\\attendancepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\views\\disciplinepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\views\\disciplinepage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\views\\recruitmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\views\\recruitmentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\views\\contractpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\views\\contractpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\dialogs\\attendancedialog.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\dialogs\\attendancedialog.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\dialogs\\attendancedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\dialogs\\attendancedialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\controllers\\recruitmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\recruitmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\controllers\\disciplinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\disciplinecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\trainingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\quanly2\\hrmanagment2\\hrmanagment2\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|e:\\job\\phuonganh\\xixoa\\quanlynhansu\\hrmanagment2\\hrmanagment2\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40C9B66B-C55D-4252-907D-14BF2F009885}|HRMANAGMENT2\\HRMANAGMENT2.csproj|solutionrelative:hrmanagment2\\controllers\\salarycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,41 +110,225 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AttendanceController.cs",
-              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\AttendanceController.cs",
-              "RelativeDocumentMoniker": "HRMANAGMENT2\\Controllers\\AttendanceController.cs",
-              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\AttendanceController.cs",
-              "RelativeToolTip": "HRMANAGMENT2\\Controllers\\AttendanceController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\AssemblyInfo.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\AssemblyInfo.cs",
+              "RelativeToolTip": "HRMANAGMENT2\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T15:22:29.458Z",
+              "WhenOpened": "2025-10-15T17:45:21.83Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AttendanceDialog.xaml.cs",
-              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml.cs",
-              "RelativeDocumentMoniker": "HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml.cs",
-              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml.cs",
-              "RelativeToolTip": "HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAYwFYAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T15:21:49.566Z",
+              "Title": "App.xaml",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\App.xaml",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\App.xaml",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\App.xaml",
+              "RelativeToolTip": "HRMANAGMENT2\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T17:45:18.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\appsettings.json",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\appsettings.json",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\appsettings.json",
+              "RelativeToolTip": "HRMANAGMENT2\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-15T17:45:16.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "EmployeePage.g.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\obj\\Debug\\net8.0-windows\\Views\\EmployeePage.g.cs",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\obj\\Debug\\net8.0-windows\\Views\\EmployeePage.g.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\obj\\Debug\\net8.0-windows\\Views\\EmployeePage.g.cs",
+              "RelativeToolTip": "HRMANAGMENT2\\obj\\Debug\\net8.0-windows\\Views\\EmployeePage.g.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwEEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:42:01.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SalaryPage.xaml",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\SalaryPage.xaml",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Views\\SalaryPage.xaml",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\SalaryPage.xaml",
+              "RelativeToolTip": "HRMANAGMENT2\\Views\\SalaryPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T17:41:23.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TrainingPage.xaml",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\TrainingPage.xaml",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Views\\TrainingPage.xaml",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\TrainingPage.xaml",
+              "RelativeToolTip": "HRMANAGMENT2\\Views\\TrainingPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T17:41:21.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\MainWindow.xaml",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\MainWindow.xaml",
+              "RelativeToolTip": "HRMANAGMENT2\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T17:41:16.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DisciplinePage.xaml.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\DisciplinePage.xaml.cs",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Views\\DisciplinePage.xaml.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\DisciplinePage.xaml.cs",
+              "RelativeToolTip": "HRMANAGMENT2\\Views\\DisciplinePage.xaml.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAA0wAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:38:08.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AttendancePage.xaml.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\AttendancePage.xaml.cs",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Views\\AttendancePage.xaml.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\AttendancePage.xaml.cs",
+              "RelativeToolTip": "HRMANAGMENT2\\Views\\AttendancePage.xaml.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAQwIYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:37:42.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecruitmentPage.xaml.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\RecruitmentPage.xaml.cs",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Views\\RecruitmentPage.xaml.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\RecruitmentPage.xaml.cs",
+              "RelativeToolTip": "HRMANAGMENT2\\Views\\RecruitmentPage.xaml.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAA/wBIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:30:49.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RecruitmentPage.xaml",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\RecruitmentPage.xaml",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Views\\RecruitmentPage.xaml",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\RecruitmentPage.xaml",
+              "RelativeToolTip": "HRMANAGMENT2\\Views\\RecruitmentPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T17:30:46.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeePage.xaml.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\EmployeePage.xaml.cs",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Views\\EmployeePage.xaml.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\EmployeePage.xaml.cs",
+              "RelativeToolTip": "HRMANAGMENT2\\Views\\EmployeePage.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwIQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:29:22.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContractPage.xaml.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\ContractPage.xaml.cs",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Views\\ContractPage.xaml.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\ContractPage.xaml.cs",
+              "RelativeToolTip": "HRMANAGMENT2\\Views\\ContractPage.xaml.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAhwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T17:25:30.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ContractPage.xaml",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\ContractPage.xaml",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Views\\ContractPage.xaml",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\ContractPage.xaml",
+              "RelativeToolTip": "HRMANAGMENT2\\Views\\ContractPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T17:25:27.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DisciplinePage.xaml",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\DisciplinePage.xaml",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Views\\DisciplinePage.xaml",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\DisciplinePage.xaml",
+              "RelativeToolTip": "HRMANAGMENT2\\Views\\DisciplinePage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-10-15T15:55:42.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Controllers\\AttendanceController.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "HRMANAGMENT2\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T15:22:29.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AttendanceDialog.xaml.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml.cs",
+              "RelativeDocumentMoniker": "HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml.cs",
+              "RelativeToolTip": "HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAYwFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-15T15:21:49.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "EmployeePage.xaml",
-              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\EmployeePage.xaml",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\EmployeePage.xaml",
               "RelativeDocumentMoniker": "HRMANAGMENT2\\Views\\EmployeePage.xaml",
-              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\EmployeePage.xaml",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Views\\EmployeePage.xaml",
               "RelativeToolTip": "HRMANAGMENT2\\Views\\EmployeePage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-15T14:47:11.093Z",
@@ -92,93 +336,87 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 20,
               "Title": "AttendanceDialog.xaml",
-              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml",
               "RelativeDocumentMoniker": "HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml",
-              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml",
               "RelativeToolTip": "HRMANAGMENT2\\Dialogs\\AttendanceDialog.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-10-15T14:46:09.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T14:46:09.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 23,
               "Title": "TrainingController.cs",
-              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\TrainingController.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\TrainingController.cs",
               "RelativeDocumentMoniker": "HRMANAGMENT2\\Controllers\\TrainingController.cs",
-              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\TrainingController.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\TrainingController.cs",
               "RelativeToolTip": "HRMANAGMENT2\\Controllers\\TrainingController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T14:28:13.078Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T14:28:13.078Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 24,
               "Title": "SalaryController.cs",
-              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\SalaryController.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\SalaryController.cs",
               "RelativeDocumentMoniker": "HRMANAGMENT2\\Controllers\\SalaryController.cs",
-              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\SalaryController.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\SalaryController.cs",
               "RelativeToolTip": "HRMANAGMENT2\\Controllers\\SalaryController.cs",
               "ViewState": "AgIAAMIAAAAAAAAAAAAqwNgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T14:28:01.798Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T14:28:01.798Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 21,
               "Title": "RecruitmentController.cs",
-              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\RecruitmentController.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\RecruitmentController.cs",
               "RelativeDocumentMoniker": "HRMANAGMENT2\\Controllers\\RecruitmentController.cs",
-              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\RecruitmentController.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\RecruitmentController.cs",
               "RelativeToolTip": "HRMANAGMENT2\\Controllers\\RecruitmentController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T14:27:49.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T14:27:49.78Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "EmployeeController.cs",
-              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\EmployeeController.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "HRMANAGMENT2\\Controllers\\EmployeeController.cs",
-              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\EmployeeController.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "HRMANAGMENT2\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAL0AAAAAAAAAAAAIwMwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwMcAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T14:27:35.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 22,
               "Title": "DisciplineController.cs",
-              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\DisciplineController.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\DisciplineController.cs",
               "RelativeDocumentMoniker": "HRMANAGMENT2\\Controllers\\DisciplineController.cs",
-              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\DisciplineController.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\DisciplineController.cs",
               "RelativeToolTip": "HRMANAGMENT2\\Controllers\\DisciplineController.cs",
               "ViewState": "AgIAAIgAAAAAAAAAAAAAAMsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T14:27:24.173Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T14:27:24.173Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 18,
               "Title": "ContractController.cs",
-              "DocumentMoniker": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\ContractController.cs",
+              "DocumentMoniker": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\ContractController.cs",
               "RelativeDocumentMoniker": "HRMANAGMENT2\\Controllers\\ContractController.cs",
-              "ToolTip": "E:\\JOB\\phuonganh\\QUANLY2\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\ContractController.cs",
+              "ToolTip": "E:\\JOB\\phuonganh\\xixoa\\quanlynhansu\\HRMANAGMENT2\\HRMANAGMENT2\\Controllers\\ContractController.cs",
               "RelativeToolTip": "HRMANAGMENT2\\Controllers\\ContractController.cs",
               "ViewState": "AgIAAHwAAAAAAAAAAAAwwJEAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T14:22:45.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T14:22:45.1Z"
             }
           ]
         }
