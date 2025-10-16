@@ -17,7 +17,6 @@ namespace HRMANAGMENT2.Controllers
         public ContractController()
         {
             _dbManager = new DatabaseManager();
-            ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
         }
 
         private string GenerateContractId()

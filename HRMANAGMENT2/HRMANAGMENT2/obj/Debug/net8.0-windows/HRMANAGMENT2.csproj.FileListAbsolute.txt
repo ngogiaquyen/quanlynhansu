@@ -37,3 +37,241 @@ E:\JOB\phuonganh\xixoa\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-w
 E:\JOB\phuonganh\xixoa\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.AssemblyInfo.cs
 E:\JOB\phuonganh\xixoa\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.csproj.CoreCompileInputs.cache
 E:\JOB\phuonganh\xixoa\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.sourcelink.json
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.csproj.AssemblyReference.cache
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\AttendanceDialog.baml
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\ContractDialog.baml
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\DisciplineDialog.baml
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\EmployeeDialog.baml
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\RecruitmentDialog.baml
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\SalaryDialog.baml
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\TrainingDialog.baml
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\AttendancePage.baml
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\ContractPage.baml
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\DisciplinePage.baml
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\EmployeePage.baml
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\RecruitmentPage.baml
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\SalaryPage.baml
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\TrainingPage.baml
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\AttendanceDialog.g.cs
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\ContractDialog.g.cs
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\DisciplineDialog.g.cs
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\EmployeeDialog.g.cs
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\RecruitmentDialog.g.cs
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\SalaryDialog.g.cs
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\TrainingDialog.g.cs
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\AttendancePage.g.cs
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\ContractPage.g.cs
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\DisciplinePage.g.cs
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\EmployeePage.g.cs
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\RecruitmentPage.g.cs
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\SalaryPage.g.cs
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\TrainingPage.g.cs
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2_MarkupCompile.cache
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.g.resources
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.AssemblyInfo.cs
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.sourcelink.json
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\HRMANAGMENT2.exe
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\HRMANAGMENT2.deps.json
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\HRMANAGMENT2.runtimeconfig.json
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\HRMANAGMENT2.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\HRMANAGMENT2.pdb
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGM.AF10AA5A.Up2Date
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\refint\HRMANAGMENT2.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.pdb
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.genruntimeconfig.cache
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\ref\HRMANAGMENT2.dll
+C:\Users\LAPTOP\Downloads\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\appsettings.json
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\HRMANAGMENT2.exe
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\HRMANAGMENT2.deps.json
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\HRMANAGMENT2.runtimeconfig.json
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\HRMANAGMENT2.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\HRMANAGMENT2.pdb
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\EPPlus.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\EPPlus.Interfaces.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.Diagnostics.EventLog.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.Security.Cryptography.Pkcs.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.Security.Cryptography.Xml.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.csproj.AssemblyReference.cache
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\AttendanceDialog.baml
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\ContractDialog.baml
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\DisciplineDialog.baml
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\EmployeeDialog.baml
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\RecruitmentDialog.baml
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\SalaryDialog.baml
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\TrainingDialog.baml
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\AttendancePage.baml
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\ContractPage.baml
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\DisciplinePage.baml
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\EmployeePage.baml
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\RecruitmentPage.baml
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\SalaryPage.baml
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\TrainingPage.baml
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\AttendanceDialog.g.cs
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\ContractDialog.g.cs
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\DisciplineDialog.g.cs
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\EmployeeDialog.g.cs
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\RecruitmentDialog.g.cs
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\SalaryDialog.g.cs
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Dialogs\TrainingDialog.g.cs
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\AttendancePage.g.cs
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\ContractPage.g.cs
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\DisciplinePage.g.cs
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\EmployeePage.g.cs
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\RecruitmentPage.g.cs
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\SalaryPage.g.cs
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\Views\TrainingPage.g.cs
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2_MarkupCompile.cache
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.g.resources
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.AssemblyInfoInputs.cache
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.AssemblyInfo.cs
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.csproj.CoreCompileInputs.cache
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.sourcelink.json
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGM.AF10AA5A.Up2Date
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\refint\HRMANAGMENT2.dll
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.pdb
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\HRMANAGMENT2.genruntimeconfig.cache
+C:\Users\QUYEN NGO\Downloads\New folder (5)\quanlynhansu\HRMANAGMENT2\HRMANAGMENT2\obj\Debug\net8.0-windows\ref\HRMANAGMENT2.dll

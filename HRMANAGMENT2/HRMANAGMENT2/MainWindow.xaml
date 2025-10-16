@@ -4,9 +4,24 @@
         Title="Quản lý Nhân sự" Height="700" Width="1200"
         WindowStartupLocation="CenterScreen">
     <Window.Resources>
-        <Style TargetType="Button">
-            <Setter Property="Foreground" Value="#495057"/>
+        <!-- Navigation button style -->
+        <Style x:Key="NavButtonStyle" TargetType="Button">
+            <Setter Property="Foreground" Value="#343A40"/>
             <Setter Property="FontSize" Value="14"/>
+            <Setter Property="Background" Value="Transparent"/>
+            <Setter Property="BorderThickness" Value="0"/>
+            <Setter Property="Height" Value="48"/>
+            <Setter Property="HorizontalContentAlignment" Value="Left"/>
+            <Setter Property="Padding" Value="20,0"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="Button">
+                        <Border Background="{TemplateBinding Background}" CornerRadius="8">
+                            <ContentPresenter HorizontalAlignment="Left" VerticalAlignment="Center"/>
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
             <Style.Triggers>
                 <Trigger Property="IsMouseOver" Value="True">
                     <Setter Property="Background" Value="#E9ECEF"/>
@@ -19,118 +34,33 @@
         </Style>
     </Window.Resources>
     <Grid>
+        <!-- App layout: header + body -->
+        <Grid.RowDefinitions>
+            <RowDefinition Height="56"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
         <Grid.ColumnDefinitions>
             <ColumnDefinition x:Name="SidebarColumn" Width="250"/>
             <ColumnDefinition Width="*"/>
         </Grid.ColumnDefinitions>
 
-        <!-- Sidebar -->
-        <Border Grid.Column="0" Background="#F8F9FA" BorderBrush="#E9ECEF" BorderThickness="0,0,1,0">
+        <!-- Header -->
+        <Border Grid.Row="0" Grid.ColumnSpan="2" Background="#FFFFFF" BorderBrush="#E9ECEF" BorderThickness="0,0,0,1">
             <Grid>
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="Auto"/>
                     <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="Auto"/>
                 </Grid.ColumnDefinitions>
-
-                <!-- Hamburger Button -->
-                <Button x:Name="HamburgerBtn" Content="☰" Grid.Column="0" Click="HamburgerBtn_Click" Width="50" Height="50" 
-                        Background="Transparent" BorderThickness="0" FontSize="20" Margin="10" HorizontalAlignment="Left"/>
-
-                <!-- Nội dung Sidebar -->
-                <StackPanel Grid.Column="1">
-                    <!-- Header -->
-                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="20,20,20,10">
-                        <TextBlock Text="HR App" FontSize="24" FontWeight="Bold" Foreground="#007BFF"/>
-                    </StackPanel>
-
-                    <!-- Navigation Buttons -->
-                    <StackPanel Margin="0,0,0,20">
-                        <Button x:Name="BtnEmployees" Content="👥 Nhân viên" Click="BtnEmployees_Click" Tag="👥 Nhân viên"
-                                Margin="10" Height="50" Background="Transparent" BorderThickness="0" 
-                                HorizontalContentAlignment="Left" Padding="20,0">
-                            <Button.Template>
-                                <ControlTemplate>
-                                    <Border Background="{TemplateBinding Background}" CornerRadius="8">
-                                        <ContentPresenter HorizontalAlignment="Left" VerticalAlignment="Center"/>
-                                    </Border>
-                                </ControlTemplate>
-                            </Button.Template>
-                        </Button>
-                        <Button x:Name="BtnContracts" Content="📄 Hợp đồng" Click="BtnContracts_Click" Tag="📄 Hợp đồng"
-                                Margin="10" Height="50" Background="Transparent" BorderThickness="0" 
-                                HorizontalContentAlignment="Left" Padding="20,0">
-                            <Button.Template>
-                                <ControlTemplate>
-                                    <Border Background="{TemplateBinding Background}" CornerRadius="8">
-                                        <ContentPresenter HorizontalAlignment="Left" VerticalAlignment="Center"/>
-                                    </Border>
-                                </ControlTemplate>
-                            </Button.Template>
-                        </Button>
-                        <Button x:Name="BtnAttendance" Content="⏰ Chấm công" Click="BtnAttendance_Click" Tag="⏰ Chấm công"
-                                Margin="10" Height="50" Background="Transparent" BorderThickness="0" 
-                                HorizontalContentAlignment="Left" Padding="20,0">
-                            <Button.Template>
-                                <ControlTemplate>
-                                    <Border Background="{TemplateBinding Background}" CornerRadius="8">
-                                        <ContentPresenter HorizontalAlignment="Left" VerticalAlignment="Center"/>
-                                    </Border>
-                                </ControlTemplate>
-                            </Button.Template>
-                        </Button>
-                        <Button x:Name="BtnRecruitment" Content="💼 Tuyển dụng" Click="BtnRecruitment_Click" Tag="💼 Tuyển dụng"
-                                Margin="10" Height="50" Background="Transparent" BorderThickness="0" 
-                                HorizontalContentAlignment="Left" Padding="20,0">
-                            <Button.Template>
-                                <ControlTemplate>
-                                    <Border Background="{TemplateBinding Background}" CornerRadius="8">
-                                        <ContentPresenter HorizontalAlignment="Left" VerticalAlignment="Center"/>
-                                    </Border>
-                                </ControlTemplate>
-                            </Button.Template>
-                        </Button>
-                        <Button x:Name="BtnSalary" Content="💵 Lương" Click="BtnSalary_Click" Tag="💵 Lương"
-                                Margin="10" Height="50" Background="Transparent" BorderThickness="0" 
-                                HorizontalContentAlignment="Left" Padding="20,0">
-                            <Button.Template>
-                                <ControlTemplate>
-                                    <Border Background="{TemplateBinding Background}" CornerRadius="8">
-                                        <ContentPresenter HorizontalAlignment="Left" VerticalAlignment="Center"/>
-                                    </Border>
-                                </ControlTemplate>
-                            </Button.Template>
-                        </Button>
-                        <Button x:Name="BtnTraining" Content="🎓 Đào tạo" Click="BtnTraining_Click" Tag="🎓 Đào tạo"
-                                Margin="10" Height="50" Background="Transparent" BorderThickness="0" 
-                                HorizontalContentAlignment="Left" Padding="20,0">
-                            <Button.Template>
-                                <ControlTemplate>
-                                    <Border Background="{TemplateBinding Background}" CornerRadius="8">
-                                        <ContentPresenter HorizontalAlignment="Left" VerticalAlignment="Center"/>
-                                    </Border>
-                                </ControlTemplate>
-                            </Button.Template>
-                        </Button>
-                        <Button x:Name="BtnDiscipline" Content="⚖️ Kỷ luật" Click="BtnDiscipline_Click" Tag="⚖️ Kỷ luật"
-                                Margin="10" Height="50" Background="Transparent" BorderThickness="0" 
-                                HorizontalContentAlignment="Left" Padding="20,0">
-                            <Button.Template>
-                                <ControlTemplate>
-                                    <Border Background="{TemplateBinding Background}" CornerRadius="8">
-                                        <ContentPresenter HorizontalAlignment="Left" VerticalAlignment="Center"/>
-                                    </Border>
-                                </ControlTemplate>
-                            </Button.Template>
-                        </Button>
-                    </StackPanel>
-
-                    <!-- Dark Mode Toggle -->
-                    <Button Content="🌙 Dark Mode" Click="ToggleDarkMode_Click" 
-                            Margin="10" Height="40" Background="#007BFF" Foreground="White"
-                            BorderThickness="0">
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Margin="16,0" Grid.Column="0">
+                    <TextBlock Text="HR App" FontSize="20" FontWeight="Bold" Foreground="#007BFF"/>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" VerticalAlignment="Center" Grid.Column="2" Margin="0,0,16,0">
+                    <Button Content="🌙 Dark Mode" Click="ToggleDarkMode_Click" Height="32" Padding="12,0"
+                            Background="#007BFF" Foreground="White" BorderThickness="0">
                         <Button.Template>
                             <ControlTemplate>
-                                <Border Background="{TemplateBinding Background}" CornerRadius="8">
+                                <Border Background="{TemplateBinding Background}" CornerRadius="6">
                                     <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
                                 </Border>
                             </ControlTemplate>
@@ -140,9 +70,41 @@
             </Grid>
         </Border>
 
-        <!-- Main Content Area -->
-        <ContentControl x:Name="MainContent" Grid.Column="1" Background="White"/>
+        <!-- Sidebar -->
+        <Border Grid.Row="1" Grid.Column="0" Background="#F8F9FA" BorderBrush="#E9ECEF" BorderThickness="0,0,1,0">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
 
-        <!-- Styles for Buttons -->
+                <!-- Hamburger Button -->
+                <Button x:Name="HamburgerBtn" Content="☰" Grid.Column="0" Click="HamburgerBtn_Click" Width="44" Height="44" 
+                        Background="Transparent" BorderThickness="0" FontSize="18" Margin="8" HorizontalAlignment="Left"/>
+
+                <!-- Nội dung Sidebar -->
+                <StackPanel Grid.Column="1">
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="12,8,12,8">
+                        <TextBlock Text="Danh mục" FontSize="16" FontWeight="SemiBold" Foreground="#495057"/>
+                    </StackPanel>
+
+                    <!-- Navigation Buttons -->
+                    <StackPanel Margin="0,4,0,8">
+                        <Button x:Name="BtnEmployees" Style="{StaticResource NavButtonStyle}" Content="👥 Nhân viên" Click="BtnEmployees_Click" Tag="👥 Nhân viên" Margin="10,4"/>
+                        <Button x:Name="BtnContracts" Style="{StaticResource NavButtonStyle}" Content="📄 Hợp đồng" Click="BtnContracts_Click" Tag="📄 Hợp đồng" Margin="10,4"/>
+                        <Button x:Name="BtnAttendance" Style="{StaticResource NavButtonStyle}" Content="⏰ Chấm công" Click="BtnAttendance_Click" Tag="⏰ Chấm công" Margin="10,4"/>
+                        <Button x:Name="BtnRecruitment" Style="{StaticResource NavButtonStyle}" Content="💼 Tuyển dụng" Click="BtnRecruitment_Click" Tag="💼 Tuyển dụng" Margin="10,4"/>
+                        <Button x:Name="BtnSalary" Style="{StaticResource NavButtonStyle}" Content="💵 Lương" Click="BtnSalary_Click" Tag="💵 Lương" Margin="10,4"/>
+                        <Button x:Name="BtnTraining" Style="{StaticResource NavButtonStyle}" Content="🎓 Đào tạo" Click="BtnTraining_Click" Tag="🎓 Đào tạo" Margin="10,4"/>
+                        <Button x:Name="BtnDiscipline" Style="{StaticResource NavButtonStyle}" Content="⚖️ Kỷ luật" Click="BtnDiscipline_Click" Tag="⚖️ Kỷ luật" Margin="10,4"/>
+                    </StackPanel>
+                </StackPanel>
+            </Grid>
+        </Border>
+
+        <!-- Main Content Area -->
+        <Border Grid.Row="1" Grid.Column="1" Background="White">
+            <ContentControl x:Name="MainContent" Background="White"/>
+        </Border>
     </Grid>
 </Window>

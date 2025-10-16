@@ -9,7 +9,7 @@ using HRMANAGMENT2.Dialogs;
 
 namespace HRMANAGMENT2.Views
 {
-    public partial class EmployeePage : UserControl
+    public partial class AttendancePage : UserControl
     {
         //    private readonly EmployeeController? _employeeController;
         //    private DataView? _dvEmployees;

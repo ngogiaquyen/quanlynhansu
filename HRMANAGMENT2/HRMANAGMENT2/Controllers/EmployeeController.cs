@@ -18,7 +18,6 @@ namespace HRMANAGMENT2.Controllers
         public EmployeeController()
         {
             _dbManager = new DatabaseManager();
-            ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
         }
 
         private string GenerateEmployeeId()

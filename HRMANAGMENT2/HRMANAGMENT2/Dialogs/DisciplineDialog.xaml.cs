@@ -18,7 +18,10 @@ namespace HRMANAGMENT2.Dialogs
             _id = id;
             _isReadOnly = isReadOnly;
             BtnSave.IsEnabled = !_isReadOnly;
-            CbEmployeeId.ItemsSource = _controller.GetEmployeesForComboBox();
+            var employees = _controller.GetEmployeesForComboBox();
+            CbEmployeeId.ItemsSource = employees.DefaultView;
+            CbEmployeeId.DisplayMemberPath = "Name";
+            CbEmployeeId.SelectedValuePath = "EmployeeId";
             if (!string.IsNullOrEmpty(id))
             {
                 LoadDiscipline(id);

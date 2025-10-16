@@ -18,7 +18,6 @@ namespace HRMANAGMENT2.Controllers
         public RecruitmentController()
         {
             _dbManager = new DatabaseManager();
-            ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
         }
 
         private string GenerateRecruitmentId()
